@@ -9,7 +9,8 @@
 
 
 <h5>Contact:</h5>
-<p>[Nahuel Gomez ](mailto:nahuelgomez.cti@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)</p>
+
+[Nahuel Gomez ](mailto:nahuelgomez.cti@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 <p>[LinkedIn](https://www.linkedin.com/in/nelgoez/)</p>
 <p>[Mobile](https://wa.link/mtf64p)</p>
 
