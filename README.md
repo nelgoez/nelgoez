@@ -7,7 +7,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nelgoez&show_icons=true&locale=en" alt="nelgoez" /></p>
 
-<p> Email: mailito:nahuelgomez.cti@gmail.com </p>
+<p> Email: nahuelgomez.cti@gmail.com </p>
 <p>[LinkedIn](https://www.linkedin.com/in/nelgoez/)</p>
 <p>[Mobile](https://wa.link/mtf64p)</p>
 
