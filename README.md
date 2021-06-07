@@ -8,4 +8,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nelgoez&show_icons=true&locale=en" alt="nelgoez" /></p>
 
 <p> Email: nahuelgomez.cti@gmail.com </p>
-<p> LinkedIn <a src='https://www.linkedin.com/in/nelgoez/' /> </p>
+<p> LinkedIn <a href='https://www.linkedin.com/in/nelgoez/' /> </p>
