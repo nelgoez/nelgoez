@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahuel Leonardo Elias</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h3 align="center">A passionate software developer engineer in test from Argentina</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
