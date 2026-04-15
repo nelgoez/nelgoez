@@ -13,14 +13,13 @@
   <br></br>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 <br></br>
-<a href="#" style="
+<a href="https://www.protractortest.org" target="_blank" style="
     display: inline-block;
     position: relative;
     text-decoration: none;
     filter: grayscale(80%);
     opacity: 0.6;
     background: linear-gradient(to top left, transparent 47%, red 48%, red 52%, transparent 53%);
-    href="https://www.protractortest.org" target="_blank"
 "><img src="https://github.com/angular/protractor/blob/master/logo.svg" alt="Protractor" height="60" style="display: block">
 </a>
 <a href="https://webdriver.io/" target="_blank"> <img src="https://camo.githubusercontent.com/d058609ded20d32500506074912f075d9f0c97305231f367e1dd9ac93f6f4d51/68747470733a2f2f7765626472697665722e696f2f6173736574732f696d616765732f726f626f742d33363737373838646436333834396335366161356362336633333262313264352e737667" alt="WebDriverIO" width="60" height="60"/> </a>
