@@ -93,6 +93,50 @@ I'm actively studying in the **[UPEX Galaxy](https://github.com/upex-galaxy)** w
 
 ---
 
+## 📈 Continuous Improvement & Learning Path
+
+### 🎯 Current Learning Focus Areas
+
+- Advanced KATA Patterns
+- AI Integration in Testing
+- Performance Testing
+- Security Testing
+- Mobile Automation
+
+### 💡 Improvement Initiatives
+
+**Testing Excellence:**
+- AI-assisted test case generation
+- Optimized CI/CD pipelines
+- Advanced test analytics and reporting
+
+**Framework Development:**
+- Contributing to UPEX Galaxy improvements
+- Creating reusable component libraries
+- Enhancing TMS integration capabilities
+
+**Knowledge Sharing:**
+- Documenting best practices and lessons learned
+- Mentoring junior QA engineers
+- Contributing to open-source projects
+
+### 📖 Learning Resources
+
+- UPEX Galaxy materials and documentation
+- ISTQB & SWEBOK standards
+- Playwright & TypeScript ecosystem
+- Modern DevOps methodologies
+- AI/ML in testing
+
+### 🚀 Next Milestones
+
+- Complete advanced KATA certifications
+- Build and publish custom automation components
+- Contribute enhancements to open-source frameworks
+- Develop comprehensive testing strategy guides
+
+---
+
 ## 📊 GitHub Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nelgoez&show_icons=true&locale=en" alt="nelgoez" /></p>
