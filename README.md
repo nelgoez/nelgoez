@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer and QA automation engineer from Argentina with expertise in building robust test automation frameworks and ensuring software quality at scale. My focus is on creating comprehensive test solutions that ensure quality and performance.
+I'm a passionate software developer and QA automation engineer from Argentina with expertise in building robust test automation frameworks and ensuring software quality at scale. My focus is on creating efficient, maintainable test solutions and leveraging AI-driven methodologies for modern QA engineering.
 
 - 🔍 **Specialization:** Test Automation | QA Engineering | End-to-End Testing
 - 🌍 **Location:** Argentina
@@ -60,6 +60,36 @@ I'm a passionate software developer and QA automation engineer from Argentina wi
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   </a>
 </div>
+
+---
+
+## 🎓 AI-Powered Quality Engineer Course
+
+I'm actively studying in the **[UPEX Galaxy](https://github.com/upex-galaxy)** workspace as a student of the **"AI-Powered Quality Engineer"** course. This advanced training program is transforming how I approach QA automation and software testing using AI-driven methodologies.
+
+### 🚀 Core Skills Developing
+
+| Skill | Description | Repositories |
+|-------|-------------|--------------|
+| **AI-Driven Architecture** | 14-phase methodology for software development with AI assistance | [ai-driven-project-starter](https://github.com/nelgoez/ai-driven-project-starter) |
+| **KATA Framework** | Component-Action-Test architecture for scalable test automation | [ai-driven-test-automation-boilerplate](https://github.com/nelgoez/ai-driven-test-automation-boilerplate) |
+| **Context Engineering** | Structuring project knowledge for optimal AI assistance | [upex-my-mentor](https://github.com/nelgoez/upex-my-mentor) |
+| **End-to-End Testing** | Playwright-based test automation with TypeScript | ai-driven-test-automation-boilerplate |
+| **Test Management Integration** | Jira/Xray TMS integration and test traceability | All course repos |
+| **CI/CD Pipelines** | GitHub Actions workflows and deployment automation | All course repos |
+
+### 📚 Learning Repositories
+
+- **[ai-driven-project-starter](https://github.com/nelgoez/ai-driven-project-starter)** - Complete 14-phase software development methodology with prompts, context engineering, and AI-assisted workflows
+- **[ai-driven-test-automation-boilerplate](https://github.com/nelgoez/ai-driven-test-automation-boilerplate)** - Production-ready test automation framework with KATA architecture, Playwright, TypeScript, and Allure reporting
+- **[upex-my-mentor](https://github.com/nelgoez/upex-my-mentor)** - Comprehensive mentor project implementing all 14 phases with test automation engineering guidelines
+
+### 🔑 Key Methodologies
+
+- **14-Phase Development Cycle**: Constitution → Architecture → Infrastructure → Specification → Testing → Planning → Implementation → Code Review → Staging → Exploratory Testing → Automation → Production → Monitoring
+- **KATA Architecture**: Structured test framework with Components, Actions, and Tests layers
+- **Shift-Left Testing**: Testing integrated from project inception, not as an afterthought
+- **Context Engineering**: Strategic documentation structure for AI-assisted development
 
 ---
 
