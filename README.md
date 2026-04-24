@@ -62,6 +62,7 @@ I'm a passionate software developer and QA automation engineer from Argentina wi
 </div>
 
 ---
+# 📈 Continuous Improvement & Learning Path
 
 ## 🎓 AI-Powered Quality Engineer Course
 
@@ -92,9 +93,6 @@ I'm actively studying in the **[UPEX Galaxy](https://github.com/upex-galaxy)** w
 - **Context Engineering**: Strategic documentation structure for AI-assisted development
 
 ---
-
-## 📈 Continuous Improvement & Learning Path
-
 ### 🎯 Current Learning Focus Areas
 
 - Advanced KATA Patterns
