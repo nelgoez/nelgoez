@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer and QA automation engineer from Argentina with expertise in building robust test automation frameworks and ensuring software quality at scale. My focus is on creating efficient, maintainable, and scalable test solutions using modern automation tools and best practices.
+I'm a passionate software developer and QA automation engineer from Argentina with expertise in building robust test automation frameworks and ensuring software quality at scale. My focus is on creating comprehensive test solutions that ensure quality and performance.
 
 - 🔍 **Specialization:** Test Automation | QA Engineering | End-to-End Testing
 - 🌍 **Location:** Argentina
@@ -19,16 +19,16 @@ I'm a passionate software developer and QA automation engineer from Argentina wi
 <h3 align="left">Testing & QA Automation:</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <a href="https://webdriver.io/" target="_blank" title="WebdriverIO">
-    <img src="https://github.com/webdriverio/.github/blob/main/profile/robot.svg" alt="webdriver" width="50" height="50"/>
+    <img src="https://github.com/webdriverio/.github/blob/main/profile/robot.svg" alt="webdriver" width="70" height="70"/>
   </a>
   <a href="https://www.protractortest.org" target="_blank" title="Protractor">
-    <img src="https://github.com/angular/protractor/blob/master/logo.svg" alt="protractor" width="50" height="50" style="filter: grayscale(100%);"/>
+    <img src="https://github.com/angular/protractor/blob/master/logo.svg" alt="protractor" width="70" height="70" style="filter: grayscale(100%);"/>
   </a>
   <a href="https://cucumber.io/" target="_blank" title="Cucumber">
-    <img src="https://github.com/cucumber-ltd/brand/blob/master/images/svg/notm/cat-black.svg" alt="cucumber" width="50" height="50"/>
+    <img src="https://github.com/cucumber-ltd/brand/blob/master/images/svg/notm/cat-black.svg" alt="cucumber" width="70" height="70"/>
   </a>
   <a href="https://robotframework.org/" target="_blank" title="Robot Framework">
-    <img src="https://github.com/robotframework/visual-identity/blob/main/logo/robot-framework.svg" alt="robotframework" width="50" height="50"/>
+    <img src="https://github.com/robotframework/visual-identity/blob/main/logo/robot-framework.svg" alt="robotframework" width="70" height="70"/>
   </a>
 </div>
 
