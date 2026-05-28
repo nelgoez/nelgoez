@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer and QA automation engineer from Argentina with expertise in building robust test automation frameworks and ensuring software quality at scale. My focus is on creating efficient, maintainable test solutions and leveraging AI-driven methodologies for modern QA engineering.
+I'm a passionate software developer and QA automation engineer from Argentina with expertise in building robust test automation frameworks and ensuring software quality at scale. My focus is on creating scalable solutions through advanced automation methodologies and continuous learning.
 
 - 🔍 **Specialization:** Test Automation | QA Engineering | End-to-End Testing
 - 🌍 **Location:** Argentina
@@ -66,7 +66,7 @@ I'm a passionate software developer and QA automation engineer from Argentina wi
 
 ## 🎓 AI-Powered Quality Engineer Course
 
-I'm actively studying in the **[UPEX Galaxy](https://github.com/upex-galaxy)** workspace as a student of the **"AI-Powered Quality Engineer"** course. This advanced training program is transforming how I approach QA automation and software testing using AI-driven methodologies.
+I'm actively studying in the **[UPEX Galaxy](https://github.com/upex-galaxy)** workspace as a student of the **"AI-Powered Quality Engineer"** course. This advanced training program is transforming how I approach test automation and software engineering through AI-assisted methodologies.
 
 ### 🚀 Core Skills Developing
 
@@ -78,28 +78,50 @@ I'm actively studying in the **[UPEX Galaxy](https://github.com/upex-galaxy)** w
 | **End-to-End Testing** | Playwright-based test automation with TypeScript | ai-driven-test-automation-boilerplate |
 | **Test Management Integration** | Jira/Xray TMS integration and test traceability | All course repos |
 | **CI/CD Pipelines** | GitHub Actions workflows and deployment automation | All course repos |
+| **Backend Integration & Security** | Authentication, RLS policies, adapter patterns | [diploma-tracking-sys](https://github.com/nelgoez/diploma-tracking-sys) |
 
 ### 📚 Learning Repositories
 
 - **[ai-driven-project-starter](https://github.com/nelgoez/ai-driven-project-starter)** - Complete 14-phase software development methodology with prompts, context engineering, and AI-assisted workflows
-- **[ai-driven-test-automation-boilerplate](https://github.com/nelgoez/ai-driven-test-automation-boilerplate)** - Production-ready test automation framework with KATA architecture, Playwright, TypeScript, and Allure reporting
+- **[ai-driven-test-automation-boilerplate](https://github.com/nelgoez/ai-driven-test-automation-boilerplate)** - Production-ready test automation framework with KATA architecture, Playwright, TypeScript, and CI/CD integration
 - **[upex-my-mentor](https://github.com/nelgoez/upex-my-mentor)** - Comprehensive mentor project implementing all 14 phases with test automation engineering guidelines
 
 ### 🔑 Key Methodologies
 
-- **14-Phase Development Cycle**: Constitution → Architecture → Infrastructure → Specification → Testing → Planning → Implementation → Code Review → Staging → Exploratory Testing → Automation → Production → Monitoring
+- **14-Phase Development Cycle**: Constitution → Architecture → Infrastructure → Specification → Testing → Planning → Implementation → Code Review → Staging → Exploratory Testing → Documentation → Maintenance → Optimization → Closure
 - **KATA Architecture**: Structured test framework with Components, Actions, and Tests layers
 - **Shift-Left Testing**: Testing integrated from project inception, not as an afterthought
 - **Context Engineering**: Strategic documentation structure for AI-assisted development
 
 ---
+
+## 💻 Recent Project Progress
+
+### [diploma-tracking-sys](https://github.com/nelgoez/diploma-tracking-sys) - Diploma Tracking System (TypeScript)
+**Focus:** Backend integration, security policies, and educational system adapters
+- Implemented mock Moodle/Guaraní adapters using local database + seed endpoint
+- Fixed Supabase authentication flow using Admin clients for protected RLS bypass
+- Refined enrollment eligibility checks with optimized database queries
+- **Skills Applied:** TypeScript, Supabase (PostGIS), RLS policies, API design, mock data patterns
+
+### [food-app](https://github.com/nelgoez/food-app) - Recipe Management Frontend (JavaScript)
+**Focus:** Frontend testing expansion and staging environment setup
+- Expanded Jest test coverage across component layers (error states, validation, accessibility)
+- Added Playwright E2E tests for search functionality, responsive design, and edge cases
+- Extended backend test coverage for recipes and types controllers
+- Established staging environment infrastructure for production-like testing
+- **Skills Applied:** Jest, Playwright, E2E testing, component testing, multi-layer test strategy, CI/CD integration
+
+---
+
 ### 🎯 Current Learning Focus Areas
 
 - Advanced KATA Patterns
 - AI Integration in Testing
 - Performance Testing
-- Security Testing
+- Security Testing (RLS, authentication)
 - Mobile Automation
+- Backend-to-Frontend Test Integration
 
 ### 💡 Improvement Initiatives
 
