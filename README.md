@@ -166,6 +166,7 @@ I'm actively studying in the **[UPEX Galaxy](https://github.com/upex-galaxy)** w
 ## 📌 Featured Projects
 
 - **[Integra Platform](https://integra-platform.web.app)** - A comprehensive integration platform built with modern web technologies and robust backend services.
+- **.[Bunkai- Test Managment Platform](https://upexbunkai.vercel.app/)** - A test management system that decomposes user stories into executable Acceptance Test Cases. Used **[Agentic-QA-Engineering](https://github.com/nelgoez/bunkai-qa-engineering)** to colaborate.
 
 ---
 
