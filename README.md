@@ -12,13 +12,13 @@ I specialize in **agentic QA engineering**—building intelligent test automatio
 - **AI-Powered Quality Engineering** - Implementing 14-phase AI-assisted development cycles with context engineering for optimal collaboration
 - **End-to-End Test Automation** - Production-ready frameworks (Playwright, WebdriverIO, Cucumber) with TypeScript and modern QA practices
 
-**Impact:** Reduced test execution overhead by leveraging agentic patterns while maintaining deterministic quality gates. Pioneered testing methodologies for non-deterministic AI systems in production QA workflows.
+**Impact:** Reduced test execution overhead by leveraging agentic patterns while maintaining deterministic quality gates. Pioneered testing methodologies for non-deterministic AI systems in production[...]
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a software developer and QA automation engineer from Argentina with 5+ years building robust test automation frameworks at scale. I transitioned from traditional QA into **agentic engineering**, pioneering approaches to test and validate AI-driven systems and autonomous agents. My methodology combines structured testing practices with AI assistance for scalable, intelligent quality assurance.
+I'm a software developer and QA automation engineer from Argentina with 5+ years building robust test automation frameworks at scale. I transitioned from traditional QA into **agentic engineering**, p[...]
 
 - 🔍 **Specialization:** Agentic QA | AI-Driven Test Automation | Non-Deterministic System Testing
 - 🌍 **Location:** Argentina
@@ -46,12 +46,24 @@ I'm a software developer and QA automation engineer from Argentina with 5+ years
   <a href="https://playwright.dev/" target="_blank" title="Playwright">
     <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="70" height="70"/>
   </a>
+  <a href="https://jestjs.io/" target="_blank" title="Jest">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="70" height="70"/>
+  </a>
 </div>
 
 <h3 align="left">Backend & Frontend Development:</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+  </a>
   <a href="https://nodejs.org" target="_blank" title="Node.js">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" title="Next.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" title="Vite">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="50" height="50"/>
   </a>
   <a href="https://expressjs.com" target="_blank" title="Express.js">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
@@ -67,13 +79,29 @@ I'm a software developer and QA automation engineer from Argentina with 5+ years
   </a>
 </div>
 
-<h3 align="left">Tools & Platforms:</h3>
+<h3 align="left">Databases & Backend Services:</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
+  </a>
+  <a href="https://supabase.com/" target="_blank" title="Supabase">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="50" height="50"/>
+  </a>
   <a href="https://firebase.google.com/" target="_blank" title="Firebase">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
   </a>
+</div>
+
+<h3 align="left">Tools & Platforms:</h3>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <a href="https://git-scm.com/" target="_blank" title="Git">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/" target="_blank" title="GitHub">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
+  </a>
+  <a href="https://docker.com/" target="_blank" title="Docker">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
   </a>
 </div>
 
@@ -148,7 +176,7 @@ I'm a software developer and QA automation engineer from Argentina with 5+ years
 
 ### 🎓 AI-Powered Quality Engineer Course (UPEX Galaxy)
 
-I'm actively advancing through the **[UPEX Galaxy](https://github.com/upex-galaxy)** "AI-Powered Quality Engineer" program—an intensive course transforming QA through 14-phase AI-assisted methodology, agentic architecture, and context engineering.
+I'm actively advancing through the **[UPEX Galaxy](https://github.com/upex-galaxy)** "AI-Powered Quality Engineer" program—an intensive course transforming QA through 14-phase AI-assisted methodolog[...]
 
 ### 🚀 Core Competencies
 
