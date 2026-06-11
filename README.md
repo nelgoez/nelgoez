@@ -43,6 +43,9 @@ I'm a software developer and QA automation engineer from Argentina with 5+ years
   <a href="https://robotframework.org/" target="_blank" title="Robot Framework">
     <img src="https://github.com/robotframework/visual-identity/blob/main/logo/robot-framework.svg" alt="robotframework" width="70" height="70"/>
   </a>
+  <a href="https://playwright.dev/" target="_blank" title="Playwright">
+    <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="70" height="70"/>
+  </a>
 </div>
 
 <h3 align="left">Backend & Frontend Development:</h3>
@@ -211,7 +214,7 @@ I'm actively advancing through the **[UPEX Galaxy](https://github.com/upex-galax
 
 <div align="left">
   
-📧 **Email:** [nahuelgomez.cti@gmail.com](mailto:nahuelgomez.cti@gmail.com?subject=[GitHub]%20Inquiry)
+📧 **Email:** [gomeznahuel@gmail.com](mailto:gomeznahuel.le@gmail.com?subject=[GitHub]%20Inquiry)
 
 💼 **LinkedIn:** [linkedin.com/in/nelgoez](https://www.linkedin.com/in/nelgoez/)
 
