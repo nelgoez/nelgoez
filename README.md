@@ -100,8 +100,11 @@ I'm a software developer and QA automation engineer from Argentina with 5+ years
   <a href="https://github.com/" target="_blank" title="GitHub">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
   </a>
-  <a href="https://docker.com/" target="_blank" title="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
+  <a href="https://vercel.com/" target="_blank" title="Vercel">
+    <img src="http://www.w3.org/2000/svg" alt="vercel" width="50" height="50"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" title="Jenkins">
+    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="vercel" width="50" height="50"/>
   </a>
 </div>
 
