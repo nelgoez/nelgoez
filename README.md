@@ -100,10 +100,11 @@ I'm a software developer and QA automation engineer from Argentina with 5+ years
   <a href="https://github.com/" target="_blank" title="GitHub">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
   </a>
-  <a href="https://vercel.com/" target="_blank" title="Vercel">
-  <svg width="76" height="65" viewBox="0 0 76 65" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M37.5274 0L75.0548 65H0L37.5274 0Z" fill="#000000"/>
-</a>
+  <a href="https://vercel.com" target="_blank" title="Vercel" style="display: inline-block;">
+  <svg width="76" height="65" viewBox="0 0 76 65" fill="none" xmlns="http://w3.org">
+    <path d="M37.5274 0L75.0548 65H0L37.5274 0Z" fill="currentColor"/>
+  </svg>
+  </a>
   <a href="https://www.jenkins.io/" target="_blank" title="Jenkins">
     <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="vercel" width="50" height="50"/>
   </a>
