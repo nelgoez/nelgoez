@@ -1,6 +1,9 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nahuel%20Leonardo%20Elias&fontSize=50&fontAlignY=35&desc=SDET%20%E2%86%92%20Agentic%20QA%20Engineer%20%7C%20Backend%20Dev%20%7C%20TypeScript%20%7C%20Python&descAlignY=55"/>
+
 </div>
+
 <p align="center">
   <a href="https://linkedin.com/in/nelgoez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/nelgoez"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -8,16 +11,24 @@
   <a href="https://wa.link/mtf64p"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://nelthor.qzz.io"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
 </p>
+
 ---
+
 ## 🌐 Full Portfolio
 
 > Everything I do, documented with evidence: **[nelthor.qzz.io](https://nelthor.qzz.io)** — projects, blog, QA scorecards, architecture, and behind-the-scenes of how this profile stays updated.
 
+
 ---
+
 ## 🎯 What I Do
+
 QA Automation Engineer with 5+ years building robust test automation frameworks. I specialize in **agentic QA engineering** — building intelligent test automation systems that work alongside AI agents.
+
 **Impact:** Reduced test execution overhead by leveraging agentic patterns while maintaining deterministic quality gates.
+
 ---
+
 ## 📝 Latest Blog Posts
 
 ### [From SDET to Agentic QA Engineer](https://nelthor.qzz.io/blog/sdet-to-agentic-qa)
@@ -38,38 +49,50 @@ Strategies for validating non-deterministic AI outputs, agentic workflows, and p
 
 ---
 
+
 ## 💼 Tech Stack
+
 <details open>
 <summary><b>Testing & QA Automation</b></summary>
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![Allure](https://img.shields.io/badge/Allure-FF6600?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
+
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-FF6600?style=for-the-badge&logo=allure&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </details>
+
 <details>
 <summary><b>Languages & Backend</b></summary>
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 </details>
+
 <details>
 <summary><b>Tools & Platforms</b></summary>
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz48L3N2Zz4=)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+
 </details>
+
 ---
+
 ## 📊 By the Numbers
 
 | Metric | Value |
@@ -81,35 +104,55 @@ Strategies for validating non-deterministic AI outputs, agentic workflows, and p
 
 ---
 
+
 ## 🧪 QA Philosophy
 
 > Quality Engineering is a design discipline, not a testing phase. Shift-left thinking — finding issues before they become bugs, building testability into architecture, and using automation to amplify human judgment, not replace it.
 
 📊 [View full QA scorecard →](https://nelthor.qzz.io/qa)
 
+
 ---
+
 ## 🔥 Featured Projects
+
 ### [Bunkai QA Engineering](https://github.com/nelgoez/bunkai-qa-engineering)
 *AI-driven Quality Engineering boilerplate — Playwright + KATA + Jira/Xray for the full testing lifecycle, driven by agentic skills.*
 `playwright` `typescript` `bun` `kata`
 <img src="https://raw.githubusercontent.com/nelgoez/career-profile-up/main/.context/portfolio/media/bunkai-qa-engineering/thumbnail.png" width="320" alt="Bunkai QA Engineering screenshot"/>
 📅 Updated 2026-07-08T20:31:03Z
+
 ---
+
 ## 📈 GitHub Stats
+
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=nelgoez&show_icons=true&count_private=true&theme=radical&hide_border=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelgoez&layout=compact&theme=radical&hide_border=true" height="165"/>
+
 <br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nelgoez&theme=radical&hide_border=true"/>
+
 </div>
+
 ---
+
 ## 🏆 GitHub Trophies
+
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nelgoez&theme=radical&no-frame=true&no-bg=true&column=7"/>
 </div>
+
 ---
+
 <div align="center">
+
 <i>⚡ Profile auto-generated from live repo data — blog posts, project metadata, and screenshots synced from bunkai-qa-engineering, agentic-diplo-track-sys, and more.</i>
+
 <br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=nelgoez&label=Profile+Views&color=blueviolet&style=flat-square"/>
+
 </div>
