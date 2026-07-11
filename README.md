@@ -97,7 +97,7 @@ Strategies for validating non-deterministic AI outputs, agentic workflows, and p
 
 | Metric | Value |
 |--------|-------|
-| **Public Repos** | 1 |
+| **Public Repos** | 4 |
 | **CI/CD Workflows** | 6+ active |
 | **Test Coverage** | 78% average |
 | **Years Experience** | 5+ |
