@@ -97,7 +97,7 @@ Strategies for validating non-deterministic AI outputs, agentic workflows, and p
 
 | Metric | Value |
 |--------|-------|
-| **Public Repos** | 4 |
+| **Public Repos** | 1 |
 | **CI/CD Workflows** | 6+ active |
 | **Test Coverage** | 78% average |
 | **Years Experience** | 5+ |
@@ -120,7 +120,7 @@ Strategies for validating non-deterministic AI outputs, agentic workflows, and p
 *AI-driven Quality Engineering boilerplate — Playwright + KATA + Jira/Xray for the full testing lifecycle, driven by agentic skills.*
 `playwright` `typescript` `bun` `kata`
 <img src="https://raw.githubusercontent.com/nelgoez/career-profile-up/main/.context/portfolio/media/bunkai-qa-engineering/thumbnail.png" width="320" alt="Bunkai QA Engineering screenshot"/>
-📅 Updated 2026-07-08T20:31:03Z
+📅 Updated 2026-07-11T00:24:41Z
 
 ---
 
