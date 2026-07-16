@@ -31,12 +31,12 @@ QA Automation Engineer with 5+ years building robust test automation frameworks.
 
 ## 📝 Latest Blog Posts
 
-### [From SDET to Agentic QA Engineer](https://nelthor.qzz.io/blog/sdet-to-agentic-qa)
-How 4.5 years at Newfold Digital shaped my transition from traditional test automation to agentic AI-driven quality engineering.
-📅 Jul 1, 2026
-
 ### [How I Built This Portfolio — With AI Agents](https://nelthor.qzz.io/blog/how-i-built-this-portfolio)
 From spec to deploy, this portfolio was built using agentic development workflows. No magic — just structured skill orchestration and human judgment.
+📅 Jul 1, 2026
+
+### [From SDET to Agentic QA Engineer](https://nelthor.qzz.io/blog/sdet-to-agentic-qa)
+How 4.5 years at Newfold Digital shaped my transition from traditional test automation to agentic AI-driven quality engineering.
 📅 Jul 1, 2026
 
 ### [Testing AI Agents — A Practical Guide](https://nelthor.qzz.io/blog/testing-ai-agents)
