@@ -122,6 +122,11 @@ Strategies for validating non-deterministic AI outputs, agentic workflows, and p
 <img src="https://raw.githubusercontent.com/nelgoez/career-profile-up/main/.context/portfolio/media/bunkai-qa-engineering/thumbnail.png" width="320" alt="Bunkai QA Engineering screenshot"/>
 📅 Updated 2026-08-05T20:37:32Z
 
+### [Diploma Tracking System](https://github.com/nelgoez/diploma-tracking-sys)
+*Full-stack academic diploma management platform for Universidad Nacional de Córdoba — React + Hono + Supabase + Allure. AI-driven 14-phase methodology from PRD to production.*
+`react` `hono` `supabase` `typescript`
+📅 Updated 2026-08-05T21:31:44Z
+
 ### [Agentic Diplo Track Sys](https://github.com/nelgoez/agentic-diplo-track-sys)
 *Agentic-dev boilerplate — from PRD to staging deploy, driven by AI skills. Built for real teams shipping backlogs with Playwright, Allure, and Jira integration.*
 `agentic-development` `ai-workflow` `boilerplate` `typescript`
