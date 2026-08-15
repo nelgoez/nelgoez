@@ -97,7 +97,7 @@ Strategies for validating non-deterministic AI outputs, agentic workflows, and p
 
 | Metric | Value |
 |--------|-------|
-| **Public Repos** | 1 |
+| **Public Repos** | 4 |
 | **CI/CD Workflows** | 6+ active |
 | **Test Coverage** | 78% average |
 | **Years Experience** | 5+ |
@@ -121,6 +121,22 @@ Strategies for validating non-deterministic AI outputs, agentic workflows, and p
 `playwright` `typescript` `bun` `kata`
 <img src="https://raw.githubusercontent.com/nelgoez/career-profile-up/main/.context/portfolio/media/bunkai-qa-engineering/thumbnail.png" width="320" alt="Bunkai QA Engineering screenshot"/>
 📅 Updated 2026-08-15T00:15:19Z
+
+### [Diploma Tracking System](https://github.com/nelgoez/diploma-tracking-sys)
+*Full-stack academic diploma management platform for Universidad Nacional de Córdoba — React + Hono + Supabase + Allure. AI-driven 14-phase methodology from PRD to production.*
+`react` `hono` `supabase` `typescript`
+📅 Updated 2026-08-11T03:51:04Z
+
+### [Agentic Diplo Track Sys](https://github.com/nelgoez/agentic-diplo-track-sys)
+*Agentic-dev boilerplate — from PRD to staging deploy, driven by AI skills. Built for real teams shipping backlogs with Playwright, Allure, and Jira integration.*
+`agentic-development` `ai-workflow` `boilerplate` `typescript`
+📅 Updated 2026-08-11T03:52:05Z
+
+### [UNC Agentic Dev](https://github.com/nelgoez/unc-agentic-dev)
+*Moodle automation & course audit infrastructure for UNC Campus Virtual — Playwright, Allure, Netlify, and AI-driven reengagement pipelines.*
+`moodle` `automation` `playwright` `allure`
+<img src="https://raw.githubusercontent.com/nelgoez/career-profile-up/main/.context/portfolio/media/unc-agentic-dev/thumbnail.png" width="320" alt="UNC Agentic Dev screenshot"/>
+📅 Updated 2026-08-05T21:25:54Z
 
 ---
 
