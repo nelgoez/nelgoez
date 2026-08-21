@@ -120,7 +120,7 @@ Strategies for validating non-deterministic AI outputs, agentic workflows, and p
 *AI-driven Quality Engineering boilerplate — Playwright + KATA + Jira/Xray for the full testing lifecycle, driven by agentic skills.*
 `playwright` `typescript` `bun` `kata`
 <img src="https://raw.githubusercontent.com/nelgoez/career-profile-up/main/.context/portfolio/media/bunkai-qa-engineering/thumbnail.png" width="320" alt="Bunkai QA Engineering screenshot"/>
-📅 Updated 2026-08-21T13:10:44Z
+📅 Updated 2026-08-21T16:15:18Z
 
 ---
 
