@@ -23,9 +23,9 @@
 
 ## 🎯 What I Do
 
-QA Automation Engineer with 5+ years building robust test automation frameworks. I specialize in **agentic QA engineering** — building intelligent test automation systems that work alongside AI agents.
+Agentic QA Engineer with 5+ years building test automation. Author of the open-source **Agentic QA Boilerplate** — KATA + Playwright, a create-agentic-qa scaffolder, 20+ agent skills, a full Xray CLI, and 7 MCP integrations.
 
-**Impact:** Reduced test execution overhead by leveraging agentic patterns while maintaining deterministic quality gates.
+**Impact:** Turned the QA workflow into agent skills — shift-left testing through regression sign-off — and shipped it as a free open-source boilerplate.
 
 ---
 
@@ -91,16 +91,24 @@ Strategies for validating non-deterministic AI outputs, agentic workflows, and p
 
 </details>
 
+<details>
+<summary><b>Agentic AI & Workflow</b></summary>
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-FF6600?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily-4F46E5?style=for-the-badge&logo=tavily&logoColor=white)
+![Xray](https://img.shields.io/badge/Xray-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+</details>
+
 ---
 
 ## 📊 By the Numbers
 
 | Metric | Value |
 |--------|-------|
-| **Public Repos** | 1 |
-| **CI/CD Workflows** | 6+ active |
-| **Test Coverage** | 78% average |
-| **Years Experience** | 5+ |
+| **Years Experience** | 6+ |
+| **Featured Project** | Agentic QA Boilerplate — 20+ skills, Xray CLI, 7 MCPs |
 
 ---
 
@@ -116,11 +124,11 @@ Strategies for validating non-deterministic AI outputs, agentic workflows, and p
 
 ## 🔥 Featured Projects
 
-### [Bunkai QA Engineering](https://github.com/nelgoez/bunkai-qa-engineering)
-*AI-driven Quality Engineering boilerplate — Playwright + KATA + Jira/Xray for the full testing lifecycle, driven by agentic skills.*
+### [Agentic QA Boilerplate](https://github.com/nelgoez/bunkai-qa-engineering)
+*Open-source Agentic QA framework — Playwright + KATA + Jira/Xray. Ships a create-agentic-qa scaffolder, 20+ agent skills, a full Xray CLI, and 7 MCP integrations to drive the entire QA lifecycle from shift-left testing to release sign-off.*
 `playwright` `typescript` `bun` `kata`
-<img src="https://raw.githubusercontent.com/nelgoez/career-profile-up/main/.context/portfolio/media/bunkai-qa-engineering/thumbnail.png" width="320" alt="Bunkai QA Engineering screenshot"/>
-📅 Updated 2026-09-15T23:57:00Z
+<img src="https://raw.githubusercontent.com/nelgoez/career-profile-up/main/.context/portfolio/media/bunkai-qa-engineering/thumbnail.png" width="320" alt="Agentic QA Boilerplate screenshot"/>
+📅 Updated 2026-09-16T02:16:53Z
 
 ---
 
