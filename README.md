@@ -128,7 +128,7 @@ Strategies for validating non-deterministic AI outputs, agentic workflows, and p
 *Open-source Agentic QA framework — Playwright + KATA + Jira/Xray. Ships a create-agentic-qa scaffolder, 20+ agent skills, a full Xray CLI, and 7 MCP integrations to drive the entire QA lifecycle from shift-left testing to release sign-off.*
 `playwright` `typescript` `bun` `kata`
 <img src="https://raw.githubusercontent.com/nelgoez/career-profile-up/main/.context/portfolio/media/bunkai-qa-engineering/thumbnail.png" width="320" alt="Agentic QA Boilerplate screenshot"/>
-📅 Updated 2026-09-18T23:20:16Z
+📅 Updated 2026-09-18T23:31:00Z
 
 ---
 
