@@ -111,6 +111,12 @@ Agentic QA Engineer with 5+ years building test automation. Author of the open-s
 <img src="https://raw.githubusercontent.com/nelgoez/career-profile-up/main/.context/portfolio/media/bunkai-qa-engineering/thumbnail.png" width="320" alt="Agentic QA Boilerplate screenshot"/>
 📅 Updated 2026-10-10T23:11:38Z
 
+### [UNC Agentic Dev](https://github.com/nelgoez/unc-agentic-dev)
+*Moodle automation & course audit infrastructure for UNC Campus Virtual — Playwright, Allure, Netlify, and AI-driven reengagement pipelines.*
+`moodle` `automation` `playwright` `allure`
+<img src="https://raw.githubusercontent.com/nelgoez/career-profile-up/main/.context/portfolio/media/unc-agentic-dev/thumbnail.png" width="320" alt="UNC Agentic Dev screenshot"/>
+📅 Updated 2026-08-19T23:34:33Z
+
 ---
 
 ## 📈 GitHub Stats
@@ -138,7 +144,7 @@ Agentic QA Engineer with 5+ years building test automation. Author of the open-s
 
 <div align="center">
 
-<i>⚡ Profile auto-generated from live repo data — blog posts, project metadata, and screenshots synced from bunkai-qa-engineering, agentic-diplo-track-sys, and more.</i>
+<i>⚡ Profile auto-generated from live repo data — blog posts, project metadata, and screenshots synced from bunkai-qa-engineering, unc-agentic-dev, and more.</i>
 
 <br/><br/>
 
